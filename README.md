@@ -1,2 +1,4 @@
-# girls-who-code
-Girls Who Code 
+# Girls Who Code Louisville
+Girls Who Code Journaling 
+
+
