@@ -1,4 +1,4 @@
-![alt text](https://github.com/kellydern/Life-features/blob/master/assets/logo.png)
+![alt text](https://github.com/kellydern/girls-who-code/blob/master/gwc-clubs-logo-1221x234.jpg)
 
 # Girls Who Code Louisville
 Girls Who Code Journaling 
